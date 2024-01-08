@@ -1,0 +1,16 @@
+{
+    "gitdoc.enabled": true,
+    "files.associations": {
+        "stdio.h": "c",
+        "random": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "stdlib.h": "c",
+        "cmath": "c",
+        "string.h": "c"
+    },
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark"
+}

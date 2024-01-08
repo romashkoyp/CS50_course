@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: faster than sort3 with sorted50000.txt
+
+sort2 uses: Merged Sort
+
+How do you know?: this is the fastest algorithm with random50000.txt, sorted50000.txt, reversed50000.txt
+
+sort3 uses: Selection Sort
+
+How do you know?: faster than sort1 with reversed50000.txt
